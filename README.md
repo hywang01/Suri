@@ -1,7 +1,3 @@
----
-license: afl-3.0
----
-
 ## Suri: Making Large Model Training Efficient for Single-cell RNA-seq data
 
 
